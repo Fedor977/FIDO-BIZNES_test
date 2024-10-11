@@ -4,7 +4,9 @@
 Если у вас Windows, то воспользуйтесь командой ниже
 
 python -m venv venv
+
 venv\Scripts\activate
+
 Добавить интерпритатор. В правом нижнем углу,если у вас pycharm
 
 В папке templates у нас находится html файл, и css файл в директории static
